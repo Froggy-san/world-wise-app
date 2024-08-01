@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Jaszkiser",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2023-12-01T11:12:23.752Z",
+      "notes": "",
+      "position": {
+        "lat": "47.51276542037286",
+        "lng": "20.207088221625852"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Iniesta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-06T22:00:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.432269388436694",
+        "lng": "-1.6918945312500002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Cihanbeyli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-12-02T07:31:26.555Z",
+      "notes": "",
+      "position": {
+        "lat": "38.9857713048372",
+        "lng": "32.73925781250001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Haizer",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-12-02T07:33:35.808Z",
+      "notes": "",
+      "position": {
+        "lat": "36.45319777290742",
+        "lng": "4.063369078980098"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Anzing",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-08-01T15:36:40.397Z",
+      "notes": "asdad",
+      "position": {
+        "lat": "48.16608541901253",
+        "lng": "11.868554613909012"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-01T18:35:16.792Z",
+      "notes": "asddddddddddddddddddddddddddddddddddddasssssssssssss\n\n\nsasd",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.2851562500000004"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Madranges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-01T18:35:39.271Z",
+      "notes": "asdadsadsadsads",
+      "position": {
+        "lat": "45.460130637921004",
+        "lng": "1.8017578125000002"
+      },
+      "id": 98443207
+    }
+  ]
+}
